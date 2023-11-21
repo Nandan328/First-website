@@ -1,0 +1,23 @@
+body {
+    font-style: "Times New Roman";
+    font-size: 20px;
+    background-color: rgba(0, 0, 0, 0.908);
+    color: rgba(255, 255, 255, 0.781);
+    margin-right: 250px;
+    margin-left: 250px;
+}
+
+br {
+    line-height: 15px
+}
+
+code {
+    font-size: 15px;
+    color: red;
+    background-color: rgb(40, 39, 39)
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
